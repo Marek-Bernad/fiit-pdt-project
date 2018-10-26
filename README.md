@@ -9,11 +9,16 @@ This project serves for example manipulation upon geo datasets of Bratislava cit
 
 In this project I used following technologies:
 * Node.js
-
+* JavaScript
+* HTML
+* CSS
+* PSQL
+* Socket.io
+* Mapbox
 
 ## Client side
 
-description
+![My UI picture](https://github.com/Marek-Bernad/fiit-pdt-project/images/ui.png)
 
 ## Server side
 
