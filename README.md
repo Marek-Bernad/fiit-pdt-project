@@ -57,6 +57,13 @@ Project allows user to use following scenarios:
 
 ## Versions / settings
 
-description
+* PgAdmin 4 - v3.2
+* openstreetmap - updated version 2018, Oct.
+* Mapbox GL JS - v0.50.0
+* Node.js - v10.11.0
+* Socket.io-client@2.1.1
+* HTML,JS,CSS - up to date Oct, 2018
+* PostgreSQL 10.5, compiled by Visual C++ build 1800, 64-bit
+* Tested with windows10 Pro, 64-bit
 
 
