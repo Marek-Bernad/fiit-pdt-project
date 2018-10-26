@@ -8,6 +8,7 @@ This project serves for example manipulation upon geo datasets of Bratislava cit
 ## Used technologies
 
 In this project I used following technologies:
+..* Node.js
 
 
 ## Client side
