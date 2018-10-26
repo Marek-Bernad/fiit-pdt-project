@@ -18,7 +18,7 @@ In this project I used following technologies:
 
 ## Client side
 
-![My UI picture](https://github.com/Marek-Bernad/fiit-pdt-project/images/ui.png)
+![My UI picture](https://github.com/Marek-Bernad/fiit-pdt-project/blob/master/images/ui.png)
 
 ## Server side
 
