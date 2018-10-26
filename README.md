@@ -42,11 +42,18 @@ Project allows user to use following scenarios:
 
 ## Datasets details
 
-description
+* openStreetMap of Bratislava (cut area)
+* traffic in Bratislava
 
 ## How to run this project
 
-description
+1. Run your psql local server
+2. Import databases
+3. Update DB access in nodeServer.js file
+4. Navigate to fodler with file "nodeServer.js"
+5. Run in cmd/terminal "node nodeServer.js" (if you miss modules, install it in order of error code you obtain)
+6. Navigate to http://localhost:8080/
+ 
 
 ## Versions / settings
 
