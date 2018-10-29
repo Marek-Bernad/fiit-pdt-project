@@ -38,7 +38,7 @@ Project allows user to use following scenarios:
 * Show PgRouting betwwen A & B (map layer 3) (Input: 2x text field)
 * Show PgRouting from A to C but needs to go through B (map layer 4)(input: 3x text field)
 * Show polygon/polygons with edge points of specific objects like 'Billa', 'Kaufland' ... (map layer 5,6)(input: 1 text field)
-* Show heatmap of traffic in Bratislava with touches to sth (map layer 7)(input: 1 text field)
+* Show polygon/polygons with edge points with given distance from middle point of Bratislava (input: 1 text field)
 
 ## Datasets details
 
